@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Quel est l'impact de l'architecture et de l'aménagement physique des écoles sur le bien-être et les dynamiques d'apprentissage des élèves ?",
+    "extrait": "Observez ceux qui entrent dans une salle où se trouvent des rangées de tables et de chaises toutes orientées vers un tableau, ou à la rigueur disposées en U le long des murs : ils s'asseyent, parlent à voix basse ou se taisent, bougent peu. Ouvrez l'espace, rendez-le fonctionnel et aimable et vous verrez alors s'épanouir de multiples styles d'apprentissage, le travail collaboratif autant que l'étude solitaire et concentrée."
+  },
+  {
+    "question": "Quels sont les avantages et les défis liés au développement de la formation universitaire à distance dans les pays africains ?",
+    "extrait": "Un défi réel attend la formation à distance : lui donner de la crédibilité en faisant reconnaître par les ministères les diplômes obtenus par ce seul mode d'enseignement. Une difficulté plus grande encore implique la modernisation des infrastructures et du parc informatique des universités, mais aussi le changement de mentalités des enseignants, dont la plupart méconnaissent encore l'importance du télé-enseignement."
+  },
+  {
+    "question": "En quoi l'utilisation des cartes heuristiques (mind mapping) et des outils de visualisation graphique modifie-t-elle la structuration de la pensée et la mémorisation ?",
+    "extrait": "Nos stratégies d'apprentissage s'élaborent en interaction permanente avec notre environnement. Les cartes heuristiques et conceptuelles y sont désormais reconnues comme de puissantes aides à la structuration de la pensée. Le risque de fascination pour cette représentation flatteuse est toutefois réel, qui nous conduirait à accorder une confiance aveugle à ce qui nous est si joliment montré."
+  },
+  {
+    "question": "De quelle manière l'humour peut-il être utilisé comme un levier pédagogique efficace pour augmenter la motivation et l'attention en classe ?",
+    "extrait": "L'humour est chose difficile à manipuler en classe, car il faut savoir en maîtriser les effets. Les élèves, pour leur part, utilisent le rire comme une parade devant des cours trop ennuyeux ou trop compliqués. L'humour crée de la proximité entre les protagonistes et, quand ses effets sont maîtrisés, un climat propice à l'apprentissage."
+  },
+  {
+    "question": "Comment la transition du livre imprimé vers la lecture numérique et les liseuses transforme-t-elle nos habitudes de lecture et d'assimilation des textes ?",
+    "extrait": "Objets désormais dématérialisés, les livres conservent leur dimension intellectuelle d'oeuvres complètes. Est-ce bien sûr ? Le livre n'est-il pas en train de se fragmenter sous nos yeux en une multitude de textes, de signes, de données ? Ces questions mettent en cause la fonction cruciale de transmission de tout système éducatif."
+  },
+  {
+    "question": "Quelles méthodes pédagogiques permettent aux étudiants de gérer l'infobésité et de maintenir leur concentration face aux distractions constantes des appareils numériques ?",
+    "extrait": "Il s'agit d'apprendre et d'enseigner alors que des sirènes éblouissantes appellent les étudiants par leur petit nom. Quand les difficultés se lèvent, on est placé devant un choix : soit abandonner, soit se concentrer et surmonter le désagréable. Depuis toujours, notre propension au moindre effort et aux récompenses faciles est utilisée pour nous éloigner de nos intérêts."
+  },
+  {
+    "question": "Comment le rôle du professeur évolue-t-il pour devenir un animateur et un guide face à l'abondance des ressources d'apprentissage en réseau ?",
+    "extrait": "La vision traditionnelle du professeur correspond de moins en moins à la réalité. Ce savant professeur est effectivement en voie de disparition et est remplacé par celui qui sait mettre à contribution les moyens et les individus dans des activités d'apprentissage adaptées au niveau et au contexte de chaque personne et groupe."
+  },
+  {
+    "question": "Sur quels critères repose aujourd'hui la valeur sociale et le prestige d'un diplôme universitaire face aux attentes du marché du travail ?",
+    "extrait": "Le prestige de l'éducation se déploie autant chez ceux qui acquièrent la formation que chez ceux qui la dispensent. La valeur sociale du diplôme tient beaucoup à celle de qui le décerne : plus il est renommé, plus votre diplôme l'est et sa réputation rejaillit sur vous. En retour, votre succès le renforce."
+  },
+  {
+    "question": "Quelles sont les conséquences et les limites éthiques de l'utilisation de modèles mathématiques quantitatifs pour anticiper les comportements humains, notamment lors des crises économiques ?",
+    "extrait": "Plus qu'une crise économique au sens strict, il s'agirait de la crise d'un modèle mathématique de gestion du risque, ultra-dominant chez les experts financiers. La minoration des variations quotidiennes, la sous-estimation des événements exceptionnels et la foi absolue dans la rationalité des comportements des agents ont conduit à la succession de crises."
+  },
+  {
+    "question": "Comment l'intelligence artificielle et la numérisation massive redéfinissent-elles les processus de création et l'expression culturelle ?",
+    "extrait": "Le plus déroutant est l'apport de l'intelligence artificielle qui se nourrit de la créativité de millions de personnes et devient capable de produire des oeuvres synthétiques. Ces oeuvres font correspondre les intentions du créateur et un modèle d'apprentissage à partir du matériel accessible : succès garanti, mais qui interpelle nos processus de création et d'appréciation."
+  }
+]
